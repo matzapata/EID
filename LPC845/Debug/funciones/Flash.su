@@ -1,0 +1,4 @@
+../funciones/Flash.c:10:6:Flash_Init	8	static
+../funciones/Flash.c:14:9:Flash_WritePage	40	static
+../funciones/Flash.c:47:10:Flash_GetPageAddress	24	static
+../funciones/Flash.c:53:11:Flash_GetPageMemCpy	32	static

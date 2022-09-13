@@ -1,0 +1,4 @@
+../source/Flash.c:12:6:IAP_Init	8	static
+../source/Flash.c:16:9:IAP_WriteBuffer	32	static
+../source/Flash.c:37:12:IAP_ReadBuffer	16	static
+../source/Flash.c:41:10:IAP_GetBasePage	16	static

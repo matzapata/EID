@@ -1,0 +1,13 @@
+../funciones/Storage.c:34:6:Storage_Init	16	static
+../funciones/Storage.c:51:6:Storage_PrintStore	16	static
+../funciones/Storage.c:62:11:Storage_GetHashAddr	8	static
+../funciones/Storage.c:67:9:Storage_SetHash	16	static
+../funciones/Storage.c:73:9:Storage_GetPswdQ	8	static
+../funciones/Storage.c:79:11:Storage_PopPswd	24	static
+../funciones/Storage.c:98:9:Storage_SetPswd	64	static
+../funciones/Storage.c:133:9:Storage_DeletePswd	16	static
+../funciones/Storage.c:149:9:Storage_GetContQ	8	static
+../funciones/Storage.c:155:11:Storage_PopCont	24	static
+../funciones/Storage.c:174:9:Storage_SetCont	64	static
+../funciones/Storage.c:207:9:Storage_DeleteCont	16	static
+../funciones/Storage.c:222:6:Storage_Reset	8	static

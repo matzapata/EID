@@ -1,0 +1,52 @@
+/* Base */
+
+/* set backgrounds to white */
+MainWindow,
+#mainScrollArea,
+#settingsScrollArea,
+#scrollAreaWidgetContents,
+#scrollAreaWidgetContents_2 {
+    background-color:white;
+}
+
+QComboBox {
+   height: 30px;
+}
+
+QLineEdit {
+    padding: 10px;
+    border-radius: 3px;
+    border: 1px solid #7A7A7A;
+}
+
+/* Specifics */
+#ConnectionPage_frame,
+#LoginPage_frame  {
+    border: 1px solid #7A7A7A;
+    border-radius: 5px;
+}
+
+#LoginPage_UsernameLabel,
+#LoginPage_PasswordLabel {
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 20px;
+    color: #363636;
+}
+
+#Sidebar_info {
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 14px;
+    color: #363636;
+}
+
+#mainScrollArea,
+#settingsScrollArea {
+    border: none;
+}
+

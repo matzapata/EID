@@ -1,0 +1,4 @@
+../source/utils.c:13:6:AlertPendingConfirmation	8	static
+../source/utils.c:19:6:AlertConfirmationOK	8	static
+../source/utils.c:26:6:AlertConfirmationFAIL	8	static
+../source/utils.c:33:6:AlertIdleState	8	static

@@ -1,0 +1,10 @@
+../funciones/CryptoUtilities.c:33:6:Crypto_SetSessionKey	16	static
+../funciones/CryptoUtilities.c:38:6:KeyGen	104	static
+../funciones/CryptoUtilities.c:47:21:Crypto_GetPublicKey	8	static
+../funciones/CryptoUtilities.c:51:6:Crypto_CmpUsrKeyHash	16	static
+../funciones/CryptoUtilities.c:55:6:Crypto_SetUsrKeyHash	16	static
+../funciones/CryptoUtilities.c:59:10:Crypto_AesDecryptBuffer	112	dynamic
+../funciones/CryptoUtilities.c:86:10:Crypto_AesEncryptBuffer	112	dynamic
+../funciones/CryptoUtilities.c:115:10:Crypto_RsaEncryptBuffer	24	static
+../funciones/CryptoUtilities.c:123:9:Crypto_RsaDecryptBuffer	24	static
+../funciones/CryptoUtilities.c:131:6:phex	32	static

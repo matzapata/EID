@@ -1,0 +1,16 @@
+../funciones/Aes.c:146:16:getSBoxValue	16	static
+../funciones/Aes.c:151:16:getSBoxInvert	16	static
+../funciones/Aes.c:157:13:KeyExpansion	24	static
+../funciones/Aes.c:224:13:AddRoundKey	40	static
+../funciones/Aes.c:238:13:SubBytes	32	static
+../funciones/Aes.c:253:13:ShiftRows	16	static
+../funciones/Aes.c:281:16:xtime	16	static
+../funciones/Aes.c:287:13:MixColumns	24	static
+../funciones/Aes.c:325:13:InvMixColumns	24	static
+../funciones/Aes.c:346:13:InvSubBytes	32	static
+../funciones/Aes.c:358:13:InvShiftRows	16	static
+../funciones/Aes.c:388:13:Cipher	16	static
+../funciones/Aes.c:413:13:InvCipher	16	static
+../funciones/Aes.c:438:13:BlockCopy	24	static
+../funciones/Aes.c:455:6:AES128_ECB_encrypt	24	static
+../funciones/Aes.c:468:6:AES128_ECB_decrypt	24	static

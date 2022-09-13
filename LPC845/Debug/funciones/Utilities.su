@@ -1,0 +1,4 @@
+../funciones/Utilities.c:15:6:AlertPending	8	static
+../funciones/Utilities.c:21:6:AlertOK	8	static
+../funciones/Utilities.c:28:6:AlertFAIL	8	static
+../funciones/Utilities.c:35:6:AlertIdleState	8	static
